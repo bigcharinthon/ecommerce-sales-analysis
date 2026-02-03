@@ -12,7 +12,7 @@ This project analyzes e-commerce sales data using SQL (SQLite) and Power BI to e
 The dataset includes order-level, product-level, and customer-level data, which are used to analyze monthly sales performance, identify low-performing products, and evaluate repeat customer behavior.
 
 ## Dashboard Overview
-![Dashboard Overview](dashboard_overviewv2.png)
+![Dashboard Overview](overview_dashboardv2.png)
 
 ## Key Insights
 

@@ -18,6 +18,7 @@ The dataset includes order-level, product-level, and customer-level data, which 
 
 ### 1. Monthly Revenue Trend
 Sales in November are the lowest compared to other months. This decline may be due to the absence of promotional campaigns, as customers could be waiting for year-end promotions.
+
 ![Monthly Revenue](monthly_revenue.png)
 
 ### 2. Low-performing Products

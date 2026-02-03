@@ -23,7 +23,7 @@ Sales in November are the lowest compared to other months. This decline may be d
 
 ### 2. Low-performing Products
 Products with low sales do not necessarily indicate poor product quality. Lower sales performance may be influenced by higher prices, leading to lower purchase frequency compared to other products. This suggests opportunities for pricing adjustments or targeted promotional strategies.
-![Low-performing Products](low_products.png)
+![Low-performing Products](low_performing_products.png)
 
 ### 3. Repeat Customers
 All customers in the dataset are repeat customers, indicating strong customer retention. However, this result may be influenced by the limited dataset size. Offering discounts or incentives for subsequent purchases could help increase revenue from repeat customers.

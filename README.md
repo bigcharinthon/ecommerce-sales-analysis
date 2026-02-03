@@ -27,6 +27,7 @@ Products with low sales do not necessarily indicate poor product quality. Lower 
 
 ### 3. Repeat Customers
 All customers in the dataset are repeat customers, indicating strong customer retention. However, this result may be influenced by the limited dataset size. Offering discounts or incentives for subsequent purchases could help increase revenue from repeat customers.
+
 ![Repeat Customers](repeat_customers.png)
 
 ## Conclusion

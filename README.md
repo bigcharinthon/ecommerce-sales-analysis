@@ -38,11 +38,11 @@ ecommerce-sales-analysis/
 
 ## How to Use
 
-1. Clone the repository
-2. Open the SQLite database file in `/data/ecommerce.db`
-3. Run each SQL file in the `/sql` folder to generate the KPI
-4. View or edit the Power BI dashboard in the `/images` folder
-   
+## How to Use
+1. Open the SQLite database in `data/ecommerce.db`
+2. Run the SQL queries in the `sql/` folder
+3. Review output using your query tool or BI tool
+ 
 ---
 
 ## Business Questions & Analysis

@@ -101,7 +101,7 @@ Implementing loyalty programs or personalized offers could help increase custome
 ---
 
 ## Dashboard Overview
-![Dashboard Overview](images/overview_dashboard.png)
+![Dashboard Overview](images/overview_dashborad.png)
 
 The Power BI dashboard consolidates all KPIs into a single view, allowing stakeholders to quickly monitor revenue trends, product performance, and customer behavior.
 

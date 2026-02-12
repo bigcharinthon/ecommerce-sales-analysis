@@ -94,11 +94,10 @@ How many repeat customers are there?
 ![Repeat Customers](images/repeat_customers.png)
 
 **Insight:**  
-All customers in the dataset are repeat customers, suggesting strong customer retention.  
-However, this result may be influenced by the limited dataset size.
+A high number of repeat customers may be driven by promotional campaigns or member-only discounts, which encourage customers to return and make repeat purchases.
 
 **Business Implication:**  
-Implementing loyalty programs or personalized offers could help increase customer lifetime value.
+Offering discounts on future purchases could help strengthen customer loyalty and encourage repeat buying behavior.
 
 ---
 

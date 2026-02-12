@@ -36,6 +36,15 @@ ecommerce-sales-analysis/
 ```
 ---
 
+## How to Use
+
+1. Clone the repository
+2. Open the SQLite database file in `/data/ecommerce.db`
+3. Run each SQL file in the `/sql` folder to generate the KPI
+4. View or edit the Power BI dashboard in the `/images` folder
+   
+---
+
 ## Business Questions & Analysis
 
 ### KPI 1: Total Revenue

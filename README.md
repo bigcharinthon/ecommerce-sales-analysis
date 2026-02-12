@@ -42,7 +42,7 @@ ecommerce-sales-analysis/
 What is the total revenue generated from all orders?
 
 **Purpose:**  
-To understand overall business performance and establish a baseline for further analysis.
+To understand the overall dataset and use it as a foundation for further business analysis.
 
 ---
 

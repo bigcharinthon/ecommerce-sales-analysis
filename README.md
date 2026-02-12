@@ -8,9 +8,10 @@ The objective of this project is to demonstrate practical SQL skills and the abi
 ---
 
 ## Tools & Technologies
-- SQL (SQLite)
-- Power BI
-- GitHub (Project Documentation)
+
+- SQLite – query execution and database
+- Power BI – KPI dashboard visualization
+- Markdown – documentation
 
 ---
 

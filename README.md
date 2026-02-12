@@ -57,7 +57,7 @@ Revenue in **November is noticeably lower** compared to other months.
 This may indicate seasonal purchasing behavior, where customers delay purchases while waiting for major promotional periods later in the year.
 
 **Business Implication:**  
-Running targeted promotions during low-performing months could help stabilize revenue trends.
+While waiting for major promotional campaigns, the business could consider offering price discounts on low-performing products toward the end of the year to help increase product sales and improve revenue in November.
 
 ---
 

@@ -39,7 +39,7 @@ ecommerce-sales-analysis/
 
 ### KPI 1: Total Revenue
 **Business Question:**  
-What is the total revenue generated from all orders?
+What is the total revenue from all orders?
 
 **Purpose:**  
 To understand the overall dataset and use it as a foundation for further business analysis.

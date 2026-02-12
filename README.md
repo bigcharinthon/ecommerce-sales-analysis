@@ -80,11 +80,10 @@ Product performance should be evaluated using multiple factors, such as sales vo
 Which are the bottom 5 products by revenue?
 
 **Insight:**  
-Low revenue does not necessarily imply poor product quality.  
-Higher-priced products tend to have lower purchase frequency, which impacts total revenue.
+Low-selling products may be affected by a lack of promotions, limited marketing exposure, or higher prices per unit.
 
 **Business Implication:**  
-Potential actions include pricing optimization, targeted discounts, or repositioning these products within marketing campaigns.
+Promotional campaigns or price discounts could be implemented for low-performing products to help increase sales.
 
 ---
 

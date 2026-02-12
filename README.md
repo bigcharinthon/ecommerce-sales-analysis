@@ -71,7 +71,7 @@ Which are the top 5 products by revenue?
 A small number of products contribute a large proportion of total revenue, indicating revenue concentration.
 
 **Business Implication:**  
-These products should be prioritized for inventory planning, marketing campaigns, and promotional strategies.
+Product performance should be evaluated using multiple factors, such as sales volume, revenue, profit margin, and the impact of promotional activities, rather than relying on a single metric.
 
 ---
 

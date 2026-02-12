@@ -37,8 +37,6 @@ ecommerce-sales-analysis/
 ---
 
 ## How to Use
-
-## How to Use
 1. Open the SQLite database in `data/ecommerce.db`
 2. Run the SQL queries in the `sql/` folder
 3. Review output using your query tool or BI tool

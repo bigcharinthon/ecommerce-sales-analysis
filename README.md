@@ -77,7 +77,7 @@ These products should be prioritized for inventory planning, marketing campaigns
 
 ### KPI 4: Bottom 5 Products by Revenue
 **Business Question:**  
-Which products generate the lowest revenue?
+Which are the bottom 5 products by revenue?
 
 **Insight:**  
 Low revenue does not necessarily imply poor product quality.  

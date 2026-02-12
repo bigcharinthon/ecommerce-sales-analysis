@@ -15,15 +15,17 @@ The objective of this project is to demonstrate practical SQL skills and the abi
 ---
 
 ## Project Structure
-├── data
+
+ecommerce-sales-analysis/
+├── data/
 │ └── ecommerce.db
-├── sql
+├── sql/
 │ ├── kpi_01_total_revenue.sql
 │ ├── kpi_02_monthly_revenue.sql
 │ ├── kpi_03_top_5_products.sql
 │ ├── kpi_04_bottom_5_products.sql
 │ └── kpi_05_repeat_customers.sql
-├── images
+├── images/
 │ ├── overview_dashboard.png
 │ ├── monthly_revenue.png
 │ ├── top_5_products_by_revenue.png

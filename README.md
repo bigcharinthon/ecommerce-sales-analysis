@@ -90,7 +90,7 @@ Potential actions include pricing optimization, targeted discounts, or repositio
 
 ### KPI 5: Repeat Customers
 **Business Question:**  
-How many customers place more than one order?
+How many repeat customers are there?
 
 ![Repeat Customers](images/repeat_customers.png)
 

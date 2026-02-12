@@ -48,7 +48,7 @@ To understand the overall dataset and use it as a foundation for further busines
 
 ### KPI 2: Monthly Revenue Trend
 **Business Question:**  
-How does revenue change over time on a monthly basis?
+What is the total revenue by month?
 
 ![Monthly Revenue](images/monthly_revenue.png)
 

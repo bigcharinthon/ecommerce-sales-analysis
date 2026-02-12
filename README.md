@@ -63,7 +63,7 @@ Running targeted promotions during low-performing months could help stabilize re
 
 ### KPI 3: Top 5 Products by Revenue
 **Business Question:**  
-Which products generate the highest revenue?
+Which are the top 5 products by revenue?
 
 ![Top 5 Products](images/top_5_products_by_revenue.png)
 

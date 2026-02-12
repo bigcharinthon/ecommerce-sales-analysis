@@ -16,22 +16,23 @@ The objective of this project is to demonstrate practical SQL skills and the abi
 
 ## Project Structure
 
+```text
 ecommerce-sales-analysis/
 ├── data/
-│ └── ecommerce.db
+│   └── ecommerce.db
 ├── sql/
-│ ├── kpi_01_total_revenue.sql
-│ ├── kpi_02_monthly_revenue.sql
-│ ├── kpi_03_top_5_products.sql
-│ ├── kpi_04_bottom_5_products.sql
-│ └── kpi_05_repeat_customers.sql
+│   ├── kpi_01_total_revenue.sql
+│   ├── kpi_02_monthly_revenue.sql
+│   ├── kpi_03_top_5_products.sql
+│   ├── kpi_04_bottom_5_products.sql
+│   └── kpi_05_repeat_customers.sql
 ├── images/
-│ ├── overview_dashboard.png
-│ ├── monthly_revenue.png
-│ ├── top_5_products_by_revenue.png
-│ └── repeat_customers.png
+│   ├── overview_dashboard.png
+│   ├── monthly_revenue.png
+│   ├── top_5_products_by_revenue.png
+│   └── repeat_customers.png
 └── README.md
-
+```
 ---
 
 ## Business Questions & Analysis

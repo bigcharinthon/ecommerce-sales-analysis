@@ -7,6 +7,14 @@ The objective of this project is to demonstrate practical SQL skills and the abi
 
 ---
 
+## Objectives
+- Analyze monthly revenue and trends
+- Identify top/bottom performing products
+- Understand repeat customer behavior
+- Provide insights for business strategies
+
+---
+
 ## Tools & Technologies
 
 - SQL (JOIN, GROUP BY, aggregation, date functions)

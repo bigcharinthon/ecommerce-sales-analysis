@@ -9,9 +9,10 @@ The objective of this project is to demonstrate practical SQL skills and the abi
 
 ## Tools & Technologies
 
-- SQLite – query execution and database
-- Power BI – KPI dashboard visualization
-- Markdown – documentation
+- SQL (JOIN, GROUP BY, aggregation, date functions)
+- SQLite
+- Power BI (for visualization)
+- Excel (basic exploration)
 
 ---
 
@@ -41,6 +42,14 @@ ecommerce-sales-analysis/
 2. Run the SQL queries in the `sql/` folder
 3. Review output using your query tool or BI tool
  
+---
+
+## Key Analysis
+- Total revenue and monthly revenue trend
+- Top / Bottom products by sales
+- Repeat customer analysis
+- Business insight and recommendation
+
 ---
 
 ## Business Questions & Analysis

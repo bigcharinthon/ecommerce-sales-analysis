@@ -3,8 +3,10 @@
    Business Question:
    - What is the total revenue from all orders?
    =============================== */
+
 SELECT sum(total_sales) as total_revenue
 from orders
+
 /*
 Insight:
 This query calculates the total revenue generated from all orders.

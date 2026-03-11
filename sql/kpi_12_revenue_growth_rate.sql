@@ -24,7 +24,9 @@ FROM MOM
 /*
 Insight:
 This analysis calculates the month-over-month (MoM) revenue growth.
+
 It helps businesses track changes in sales performance between months.
 The results can help identify periods of growth or decline,
+
 supporting decisions such as promotional campaigns or sales strategies.
 */

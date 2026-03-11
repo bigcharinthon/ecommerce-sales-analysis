@@ -1,5 +1,5 @@
 /* ===============================
-KPI 12: running_total_revenue
+KPI 13: cumulative_revenue
 Business Question:
 -How does cumulative revenue grow over time??
 =============================== */

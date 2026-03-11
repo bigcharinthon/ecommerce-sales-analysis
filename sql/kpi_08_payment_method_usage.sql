@@ -1,8 +1,8 @@
-/*
+/* ===============================
 KPI 8: Payment Method Usage
 Business Question:
-Which payment methods are used most frequently?
-*/
+-Which payment methods are used most frequently?
+=============================== */
 
 SELECT
     payment_method,

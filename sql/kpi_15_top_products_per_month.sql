@@ -4,7 +4,6 @@ Business Question:
 -Which product generates the highest revenue in each month?
 =============================== */
 
-
 WITH monthly_sales AS (
 SELECT 
 p.product_name AS name,
@@ -14,8 +13,9 @@ FROM orders o
 JOIN products p
 ON o.product_id = p.product_id
 GROUP BY month, name
-)
-
+),
+  
+ranked_products AS (
 SELECT
 month,
 name,
@@ -25,13 +25,17 @@ PARTITION BY month
 ORDER BY monthly_sales DESC
 ) AS rank
 FROM monthly_sales
+)
+
+SELECT *
+FROM ranked_products
+WHERE rank = 1;
 
 /*
 Insight:
-This query identifies the top-selling product in each month based on revenue.
+The analysis shows the top-selling product for each month based on total revenue.
 
-It helps businesses understand which products act as "hero products"
-within each month.
+This helps identify which products perform the best during specific periods and reveals potential seasonal demand patterns.
 
-ช่วยติดสินใจให้ ธุรกิจรูเว่าถ้ามี "hero products ของเดือนกับcategoryตรงกันอาจจะต้องมีการปรับกลยุทธ์ทางธุรกิจไม่งั้นอาจจะมีผลในระยะยาวได้ฆ
+Understanding monthly product performance can support better inventory planning, promotional strategies, and product positioning
 */

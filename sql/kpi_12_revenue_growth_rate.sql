@@ -4,7 +4,7 @@ Business Question:
 -How does revenue grow month over month?
 =============================== */
 
-with MOM AS (SELECT 
+with monthlysales AS (SELECT 
       strftime('%Y-%m', order_date) AS month,
       SUM(total_sales) AS monthly_sales
     FROM orders
@@ -19,7 +19,7 @@ SELECT
  / LAG(monthly_sales) OVER(ORDER BY month),
  2
 ) || '%' AS MOM_growth
-FROM MOM
+FROM monthlysales
 
 /*
 Insight:

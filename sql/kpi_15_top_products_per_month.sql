@@ -1,7 +1,7 @@
 /* ===============================
 KPI 15: top_products_per_month
 Business Question:
--Which product generates the highest revenue in each category?
+-Which product generates the highest revenue in each month?
 =============================== */
 
 
@@ -28,11 +28,10 @@ FROM monthly_sales
 
 /*
 Insight:
-This query identifies the top-selling product in each category based on revenue.
+This query identifies the top-selling product in each month based on revenue.
 
 It helps businesses understand which products act as "hero products"
-within each category.
+within each month.
 
-The results can support decisions on product promotion,
-inventory planning, and category strategy.
+ช่วยติดสินใจให้ ธุรกิจรูเว่าถ้ามี "hero products ของเดือนกับcategoryตรงกันอาจจะต้องมีการปรับกลยุทธ์ทางธุรกิจไม่งั้นอาจจะมีผลในระยะยาวได้ฆ
 */

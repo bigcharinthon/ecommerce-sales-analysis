@@ -1,7 +1,7 @@
 /* ===============================
-KPI 12: revenue_growth_rate
+KPI 12: running_total_revenue
 Business Question:
--How does revenue grow month over month?
+-How does cumulative revenue grow over time??
 =============================== */
 
 with monthly_sales AS (SELECT 
@@ -16,10 +16,9 @@ from monthly_sales
 
 /*
 Insight:
-This analysis calculates the month-over-month (MoM) revenue growth.
+This analysis calculates the cumulative revenue over time.
 
-It helps businesses track changes in sales performance between months.
-The results can help identify periods of growth or decline,
+It helps businesses track overall revenue growth and evaluate long-term sales performance.
 
-supporting decisions such as promotional campaigns or sales strategies.
+The results can support strategic decisions such as investment planning and business expansion.
 */

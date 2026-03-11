@@ -1,7 +1,7 @@
 /* ===============================
    KPI 6: revenue_by_country
    Business Question:
-   - รู้ยอดขายของแต่ละประเทศ
+   - What is the total revenue per country?
    =============================== */
 
 SELECT 
@@ -15,5 +15,8 @@ ORDER by country_revenue;
 
 /*
 Insight:
-.
+This query calculates total revenue by country,
+helping businesses understand sales performance across different markets.
+The results can support marketing strategies and business decisions
+for each country.
 */

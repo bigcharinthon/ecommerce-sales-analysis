@@ -3,6 +3,10 @@
    Business Question:
    - What is the total revenue from all orders?
    =============================== */
-SELECT
-    SUM(oi.quantity * oi.price) AS total_revenue
-FROM order_items oi;
+SELECT sum(total_sales) as total_revenue
+from orders
+/*
+Insight:
+This query calculates the total revenue generated from all orders.
+It represents the overall sales performance of the e-commerce store.
+*/

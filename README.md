@@ -116,7 +116,7 @@ falling below the average monthly revenue level.
 Business Implication:
 Promotions or targeted discounts in February may help
 stimulate demand and improve revenue during this period.
-```
+
 ---
 
 ### KPI 2: Top 5 Products by Revenue

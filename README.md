@@ -175,6 +175,14 @@ convenience and support a wider range of purchasing preferences.
 The Power BI dashboard consolidates all KPIs into a single view, allowing stakeholders to quickly monitor revenue trends, product performance, and customer behavior.
 ---
 
+## Key Insights
+- Revenue shows monthly fluctuation with seasonal peaks
+- Top 5 products generate a significant share of revenue
+- Repeat customers contribute strongly to total revenue
+- Payment methods are relatively evenly distributed
+- 
+---
+
 ## Conclusion
 This project demonstrates the ability to:
 - Write structured SQL queries to answer real business questions

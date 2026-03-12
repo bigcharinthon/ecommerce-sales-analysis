@@ -139,7 +139,7 @@ revenue and reduce dependence on a small set of products.
 **Business Question:**  
 Which country contributes the most revenue?
 
-![Revenue by Country](images/revene_by_country.png)
+![Revenue by Country](images/revenue_by_country.png)
 
 **Insight:**  
 The UK generates the highest revenue, while other countries

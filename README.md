@@ -107,7 +107,6 @@ The analysis focuses on key business metrics including:
 Business Question:
 How does revenue change over time?
 
-
 ![Monthly Revenue](images/monthly_revenue_trend.png)
 
 Insight:

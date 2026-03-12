@@ -8,10 +8,10 @@ The objective of this project is to demonstrate practical SQL skills and the abi
 ---
 
 ## Objectives
-- Analyze monthly revenue and trends
-- Identify top/bottom performing products
+- Analyze revenue trends over time
+- Identify top and bottom performing products
 - Understand repeat customer behavior
-- Provide insights for business strategies
+- Present insights through an interactive dashboard
 
 ---
 
@@ -29,18 +29,30 @@ The objective of this project is to demonstrate practical SQL skills and the abi
 ```text
 ecommerce-sales-analysis/
 ├── data/
-│   └── ecommerce.db
+│   └── ecommerce_analysis.db
 ├── sql/
 │   ├── kpi_01_total_revenue.sql
 │   ├── kpi_02_monthly_revenue.sql
 │   ├── kpi_03_top_5_products.sql
 │   ├── kpi_04_bottom_5_products.sql
-│   └── kpi_05_repeat_customers.sql
+│   ├── kpi_05_repeat_customers.sql
+│   ├── kpi_06_revenue_by_country.sql
+│   ├── kpi_07_most_profitable_products.sql
+│   ├── kpi_09_top_products_per_category.sql
+│   ├── kpi_10_average_order_value.sql
+│   ├── kpi_11_customer_lifetime_value.sql
+│   ├── kpi_12_revenue_growth_rate.sql
+│   ├── kpi_13_running_total_revenue.sql
+│   ├── kpi_14_customer_revenue_rank.sql
+│   └── kpi_15_top_products_per_month.sql
+├── powerbi/
+│   └── PortBi.pbix
 ├── images/
-│   ├── overview_dashboard.png
-│   ├── monthly_revenue.png
-│   ├── top_5_products_by_revenue.png
-│   └── repeat_customers.png
+│   ├── Data_model.png
+│   ├── monthly Revenue Trand.png
+│   ├── top5_products.png
+│   ├── top5_products.png
+│   └── Payment.png
 └── README.md
 ```
 ---
@@ -53,11 +65,13 @@ ecommerce-sales-analysis/
 ---
 
 ## Key Analysis
-- Total revenue and monthly revenue trend
-- Top / Bottom products by sales
-- Repeat customer analysis
-- Business insight and recommendation
+The analysis focuses on key business metrics including:
 
+- Total revenue and revenue trends
+- Product performance analysis
+- Customer purchase behavior
+- Payment method distribution
+- Customer value metrics
 ---
 
 ## Business Questions & Analysis

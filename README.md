@@ -102,12 +102,19 @@ The analysis focuses on key business metrics including:
 
 ## Business Questions & Analysis
 
-### KPI 1: Total Revenue
-**Business Question:**  
-What is the total revenue from all orders?
+### KPI: Monthly Revenue Trend
 
-**Purpose:**  
-To understand the overall dataset and use it as a foundation for further business analysis.
+Business Question:
+How does revenue change over time?
+
+![Chart](image/monthly_revenue_trend.png)
+
+Insight:
+Revenue declines slightly in November compared to surrounding months.
+
+Business Implication:
+The company may consider running pre-holiday promotions or discounts
+to maintain revenue momentum before major shopping periods.
 
 ---
 

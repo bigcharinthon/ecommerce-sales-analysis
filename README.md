@@ -16,11 +16,10 @@ The objective of this project is to demonstrate practical SQL skills and the abi
 ---
 
 ## Tools & Technologies
-
-- SQL (JOIN, GROUP BY, aggregation, date functions)
+- SQL (JOINs, aggregations, date functions, window functions)
 - SQLite
-- Power BI (for visualization)
-- Excel (basic exploration)
+- Power BI (data visualization)
+- Excel (basic data exploration)
 
 ---
 
@@ -48,13 +47,40 @@ ecommerce-sales-analysis/
 ├── powerbi/
 │   └── PortBi.pbix
 ├── images/
-│   ├── Data_model.png
-│   ├── monthly Revenue Trand.png
-│   ├── top5_products.png
-│   ├── top5_products.png
-│   └── Payment.png
+│   ├── data_model.png
+│   ├── monthly_revenue_trand.png
+│   ├── overview_dashborad.png
+│   ├── payment_method.png
+│   ├── revenue_by_country.png
+│   └── top_5_products.png
 └── README.md
 ```
+## Data Model
+
+![Data Model](images/data_model.png)
+
+The dataset consists of several relational tables representing customers, orders, products, and payments.
+```
+## Key KPIs
+
+This project analyzes 15 key performance indicators (KPIs) to evaluate business performance from multiple perspectives including revenue, customer behavior, and product performance.
+
+- Total Revenue
+- Monthly Revenue
+- Top 5 Products by Revenue
+- Bottom 5 Products by Revenue
+- Repeat Customers
+- Revenue by Country
+- Most Profitable Products
+- Payment Method Usage
+- Top Products per Category
+- Average Order Value (AOV)
+- Customer Lifetime Value (CLV)
+- Revenue Growth Rate
+- Running Total Revenue
+- Customer Revenue Rank
+- Top Products per Month
+
 ---
 
 ## How to Use

@@ -107,7 +107,7 @@ The analysis focuses on key business metrics including:
 Business Question:
 How does revenue change over time?
 
-![Chart](image/monthly_revenue_trend.png)
+![Monthly Revenue](image/monthly_revenue_trend.png)
 
 Insight:
 Revenue declines slightly in November compared to surrounding months.

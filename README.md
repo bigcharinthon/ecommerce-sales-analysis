@@ -168,10 +168,11 @@ convenience and support a wider range of purchasing preferences.
 ---
 
 ## Dashboard Overview
-![Dashboard Overview](images/overview_dashboard.png)
+<p align="center">
+  <img src="images/overview_dashboard.png" width="900">
+</p>
 
 The Power BI dashboard consolidates all KPIs into a single view, allowing stakeholders to quickly monitor revenue trends, product performance, and customer behavior.
-
 ---
 
 ## Conclusion

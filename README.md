@@ -114,7 +114,7 @@ Revenue declines slightly in November compared to surrounding months.
 
 Business Implication:
 The company may consider running pre-holiday promotions or discounts
-to maintain revenue momentum before major shopping periods.
+to maintain revenue momentum before major shopping periods.ฆ
 
 ---
 

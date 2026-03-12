@@ -57,7 +57,7 @@ ecommerce-sales-analysis/
 ```
 ## Data Model
 
-![Data Model](image/data_model.png)
+![Data Model](images/data_model.png)
 
 The dataset consists of several relational tables representing customers, orders, products, and payments.
 ```

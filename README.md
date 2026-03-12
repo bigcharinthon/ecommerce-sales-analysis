@@ -61,6 +61,12 @@ ecommerce-sales-analysis/
 
 The dataset consists of several relational tables representing customers, orders, products, and payments.
 ```
+## Data Model
+
+![Data Model](images/monthly_revenue_trend.png)
+
+The dataset consists of several relational tables representing customers, orders, products, and payments.
+```
 ## Key KPIs
 
 This project analyzes 15 key performance indicators (KPIs) to evaluate business performance from multiple perspectives including revenue, customer behavior, and product performance.

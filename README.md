@@ -122,7 +122,6 @@ to maintain revenue momentum before major shopping periods.ฆ
 **Business Question:**  
 What is the total revenue by month?
 
-![Monthly Revenue](images/monthly_revenue.png)
 
 **Insight:**  
 Revenue in **November is noticeably lower** compared to other months.  

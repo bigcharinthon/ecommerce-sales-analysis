@@ -123,7 +123,7 @@ stimulate demand and improve revenue during this period.
 **Business Question:**  
 Which products generate the highest revenue?
 
-![Top Products](images/top_5_products.png)
+![Monthly Revenue](images/monthly_revenue_trend.png)
 
 **Insight:**  
 A small number of products contribute a large share of total revenue,
@@ -139,7 +139,7 @@ revenue and reduce dependence on a small set of products.
 **Business Question:**  
 Which country contributes the most revenue?
 
-![Revenue By Country](images/revenue_by_country.png)
+![Monthly Revenue](images/monthly_revenue_trend.png)
 
 **Insight:**  
 The UK generates the highest revenue, while other countries
@@ -155,7 +155,7 @@ countries may help increase sales and expand market reach.
 **Business Question:**  
 Which payment method generates the most revenue?
 
-![Payment Method](images/payment_method.png)
+![Monthly Revenue](images/monthly_revenue_trend.png)
 
 **Insight:**  
 Revenue distribution across payment methods is relatively balanced,

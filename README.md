@@ -196,3 +196,5 @@ The analysis highlights opportunities in **promotion timing, product strategy, a
 Name: Charinthon Rattanawaraha
 Role: Junior Data Analyst (Aspiring)  
 Skills: SQL, Data Analysis, Power BI
+
+![test](images/monthly_revenue_trend.png)

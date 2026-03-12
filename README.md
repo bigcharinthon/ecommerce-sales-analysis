@@ -61,12 +61,6 @@ ecommerce-sales-analysis/
 
 The dataset consists of several relational tables representing customers, orders, products, and payments.
 ```
-## Data Model
-
-![Data Model](images/monthly_revenue_trend.png)
-
-The dataset consists of several relational tables representing customers, orders, products, and payments.
-```
 ## Key KPIs
 
 This project analyzes 15 key performance indicators (KPIs) to evaluate business performance from multiple perspectives including revenue, customer behavior, and product performance.
@@ -107,7 +101,7 @@ The analysis focuses on key business metrics including:
 ---
 
 ## Business Questions & Analysis
-
+```
 ### KPI 1: Monthly Revenue Trend
 
 Business Question:
@@ -122,7 +116,7 @@ falling below the average monthly revenue level.
 Business Implication:
 Promotions or targeted discounts in February may help
 stimulate demand and improve revenue during this period.
-
+```
 ---
 
 ### KPI 2: Top 5 Products by Revenue

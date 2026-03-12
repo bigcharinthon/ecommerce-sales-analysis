@@ -197,4 +197,4 @@ Name: Charinthon Rattanawaraha
 Role: Junior Data Analyst (Aspiring)  
 Skills: SQL, Data Analysis, Power BI
 
-![test](https://github.com/bigcharinthon/ecommerce-sales-analysis/blob/main/images/monthly_revenue_trend.png)
+![test](https://raw.githubusercontent.com/bigcharinthon/ecommerce-sales-analysis/main/images/monthly_revenue_trend.png)

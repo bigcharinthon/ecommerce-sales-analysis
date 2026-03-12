@@ -107,7 +107,7 @@ The analysis focuses on key business metrics including:
 Business Question:
 How does monthly revenue change over time?
 
-![Monthly Revenue](images/monthly_revenue_trend.png)
+![Monthly Revenue]([images/monthly_revenue_trend.png](https://raw.githubusercontent.com/bigcharinthon/ecommerce-sales-analysis/refs/heads/main/images/overview_dashboard.png))
 
 Insight:
 Revenue consistently drops in February across both years,

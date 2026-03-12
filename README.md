@@ -48,8 +48,8 @@ ecommerce-sales-analysis/
 │   └── PortBi.pbix
 ├── images/
 │   ├── data_model.png
-│   ├── monthly_revenue_trand.png
-│   ├── overview_dashborad.png
+│   ├── monthly_revenue_trend.png
+│   ├── overview_dashboard.png
 │   ├── payment_method.png
 │   ├── revenue_by_country.png
 │   └── top_5_products.png
@@ -102,78 +102,73 @@ The analysis focuses on key business metrics including:
 
 ## Business Questions & Analysis
 
-### KPI: Monthly Revenue Trend
+### KPI 1: Monthly Revenue Trend
 
 Business Question:
-How does revenue change over time?
+How does monthly revenue change over time?
 
 ![Monthly Revenue](images/monthly_revenue_trend.png)
 
 Insight:
-Revenue declines slightly in November compared to surrounding months.
+Revenue consistently drops in February across both years,
+falling below the average monthly revenue level.
 
 Business Implication:
-The company may consider running pre-holiday promotions or discounts
-to maintain revenue momentum before major shopping periods.ฆ
+Promotions or targeted discounts in February may help
+stimulate demand and improve revenue during this period.
 
 ---
 
-### KPI 2: Monthly Revenue Trend
+### KPI 2: Top 5 Products by Revenue
 **Business Question:**  
-What is the total revenue by month?
+Which products generate the highest revenue?
 
+![Top Products](images/top_5_products.png)
 
 **Insight:**  
-Revenue in **November is noticeably lower** compared to other months.  
-This may indicate seasonal purchasing behavior, where customers delay purchases while waiting for major promotional periods later in the year.
+A small number of products contribute a large share of total revenue,
+suggesting that sales are concentrated among a few top-performing items.
 
 **Business Implication:**  
-While waiting for major promotional campaigns, the business could consider offering price discounts on low-performing products toward the end of the year to help increase product sales and improve revenue in November.
+Promotional campaigns for lower-performing products may help diversify
+revenue and reduce dependence on a small set of products.
 
 ---
 
-### KPI 3: Top 5 Products by Revenue
+### KPI 3: Revenue by Country
 **Business Question:**  
-Which are the top 5 products by revenue?
+Which country contributes the most revenue?
 
-![Top 5 Products](images/top_5_products_by_revenue.png)
+![Revenue By Country](images/revenue_by_country.png)
 
 **Insight:**  
-A small number of products contribute a large proportion of total revenue, indicating revenue concentration.
+The UK generates the highest revenue, while other countries
+show relatively similar revenue levels.
 
 **Business Implication:**  
-Product performance should be evaluated using multiple factors, such as sales volume, revenue, profit margin, and the impact of promotional activities, rather than relying on a single metric.
+Localized promotions or marketing campaigns in lower-performing
+countries may help increase sales and expand market reach.
 
 ---
 
-### KPI 4: Bottom 5 Products by Revenue
+### KPI 4: Revenue by Payment Method
 **Business Question:**  
-Which are the bottom 5 products by revenue?
+Which payment method generates the most revenue?
+
+![Payment Method](images/payment_method.png)
 
 **Insight:**  
-Low-selling products may be affected by a lack of promotions, limited marketing exposure, or higher prices per unit.
+Revenue distribution across payment methods is relatively balanced,
+with each method contributing a similar share of total revenue.
 
 **Business Implication:**  
-Promotional campaigns or price discounts could be implemented for low-performing products to help increase sales.
-
----
-
-### KPI 5: Repeat Customers
-**Business Question:**  
-How many repeat customers are there?
-
-![Repeat Customers](images/repeat_customers.png)
-
-**Insight:**  
-A high number of repeat customers may be driven by promotional campaigns or member-only discounts, which encourage customers to return and make repeat purchases.
-
-**Business Implication:**  
-Offering discounts on future purchases could help strengthen customer loyalty and encourage repeat buying behavior.
+Maintaining multiple payment options can help improve customer
+convenience and support a wider range of purchasing preferences.
 
 ---
 
 ## Dashboard Overview
-![Dashboard Overview](images/overview_dashborad.png)
+![Dashboard Overview](images/overview_dashboard.png)
 
 The Power BI dashboard consolidates all KPIs into a single view, allowing stakeholders to quickly monitor revenue trends, product performance, and customer behavior.
 
@@ -194,3 +189,10 @@ The analysis highlights opportunities in **promotion timing, product strategy, a
 - Perform customer segmentation
 - Analyze customer lifetime value (CLV)
 - Evaluate the impact of promotions on revenue
+- Build a predictive model to forecast future revenue trends
+
+## Author
+
+Name: Charinthon Rattanawaraha
+Role: Junior Data Analyst (Aspiring)  
+Skills: SQL, Data Analysis, Power BI

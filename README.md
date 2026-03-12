@@ -108,7 +108,7 @@ Business Question:
 How does revenue change over time?
 
 
-![Monthly Revenue](image/monthly_revenue_trend.png)
+![Monthly Revenue](images/monthly_revenue_trend.png)
 
 Insight:
 Revenue declines slightly in November compared to surrounding months.

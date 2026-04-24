@@ -144,12 +144,13 @@ Which country contributes the most revenue?
 ![Revenue by Country](images/revenue_by_country.png)
 
 **Insight:**  
-The UK generates the highest revenue, while other countries
-show relatively similar revenue levels.
+Revenue is highly concentrated in the UK and USA, while other countries contribute at relatively similar but lower levels, indicating an imbalance in revenue distribution.
+
+**Possible Explanation:**  
+This may be driven by a stronger customer base or more effective marketing presence in the UK and USA compared to other regions.
 
 **Business Implication:**  
-Localized promotions or marketing campaigns in lower-performing
-countries may help increase sales and expand market reach.
+A decline in sales from these key markets could significantly impact overall revenue. Therefore, the business should consider expanding its presence in other countries to diversify revenue streams and reduce dependency on a limited number of markets.
 
 ---
 

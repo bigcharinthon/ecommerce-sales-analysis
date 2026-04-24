@@ -161,13 +161,13 @@ Which payment method generates the most revenue?
 ![Revenue by Payment Method](images/payment_method.png)
 
 **Insight:**  
-Revenue distribution across payment methods is relatively balanced,
-with each method contributing a similar share of total revenue.
+Revenue is evenly distributed across all payment methods, with each channel contributing a similar share.
+
+**Possible Explanation:**  
+This indicates that no single payment method acts as a barrier in the checkout process, and the business effectively supports diverse customer payment preferences.
 
 **Business Implication:**  
-Maintaining multiple payment options can help improve customer
-convenience and support a wider range of purchasing preferences.
-
+The business should maintain a variety of payment options to preserve customer convenience. Additionally, further analysis could identify whether certain payment methods are associated with higher order values or distinct customer behaviors to optimize strategy.
 ---
 
 ## Dashboard Overview

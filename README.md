@@ -109,13 +109,14 @@ How does monthly revenue change over time?
 
 ![Monthly Revenue](images/monthly_revenue_trend.png)
 
-Insight:
-Revenue consistently drops in February across both years,
-falling below the average monthly revenue level.
+**Insight:**  
+Revenue consistently declines in February across multiple years, suggesting a recurring seasonal pattern rather than a one-time fluctuation.
 
-Business Implication:
-Promotions or targeted discounts in February may help
-stimulate demand and improve revenue during this period.
+**Possible Explanation:**  
+This decline may be driven by reduced consumer spending following the New Year period, where customers tend to spend more in January and subsequently reduce their purchasing activity.
+
+**Business Implication:**  
+To mitigate this seasonal slowdown, the business could introduce targeted promotions, discounts, or bundled offers in February to stimulate demand and stabilize revenue.
 
 ---
 
@@ -126,12 +127,13 @@ Which products generate the highest revenue?
 ![Top 5 Products by Revenue](images/top_5_products.png)
 
 **Insight:**  
-A small number of products contribute a large share of total revenue,
-suggesting that sales are concentrated among a few top-performing items.
+Top-performing products are predominantly concentrated in the skincare category (e.g., lipstick, shampoo, perfume), indicating that a significant portion of revenue is driven by a specific product segment.
+
+**Possible Explanation:**  
+This pattern suggests that customer demand is heavily skewed toward personal care and beauty products, potentially driven by consistent consumption behavior and repeat purchases within this category.
 
 **Business Implication:**  
-Promotional campaigns for lower-performing products may help diversify
-revenue and reduce dependence on a small set of products.
+The business could implement bundling strategies by pairing high-performing skincare products with lower-performing items to increase overall sales and encourage cross-category purchases.
 
 ---
 

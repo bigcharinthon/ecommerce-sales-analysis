@@ -100,44 +100,28 @@ ecommerce-sales-analysis/
 ![Data Model](images/data_model.png)
 
 The dataset consists of several relational tables representing customers, orders, products, and payments.
+
 ```
-## Key KPIs
+
+### **Key KPIs**
 
 This project analyzes 15 key performance indicators (KPIs) to evaluate business performance from multiple perspectives including revenue, customer behavior, and product performance.
 
-- Total Revenue
-- Monthly Revenue
-- Top 5 Products by Revenue
-- Bottom 5 Products by Revenue
-- Repeat Customers
-- Revenue by Country
-- Most Profitable Products
-- Payment Method Usage
-- Top Products per Category
-- Average Order Value (AOV)
-- Customer Lifetime Value (CLV)
-- Revenue Growth Rate
-- Running Total Revenue
-- Customer Revenue Rank
-- Top Products per Month
+- Revenue Metrics: Total Revenue, Monthly Revenue, Revenue Growth Rate, Running Total Revenue
+- Product Metrics: Top 5 Products, Bottom 5 Products, Most Profitable Products, Top Products per Category, Top Products per Month
+- Customer Metrics: Repeat Customers, Customer Lifetime Value (CLV), Customer Revenue Rank
+- Other Metrics: Revenue by Country, Average Order Value (AOV), Payment Method Usage
+
 
 ---
 
-## How to Use
-1. Open the SQLite database in `data/ecommerce.db`
-2. Run the SQL queries in the `sql/` folder
-3. Review output using your query tool or BI tool
+## **How to Use**
+1. Open the SQLite database in `data/ecommerce.db`  
+2. Run the SQL queries in the `sql/` folder  
+3. Import results into Power BI for visualization  
+4. Explore dashboards to review KPIs and insights  
  
----
 
-## Key Analysis
-The analysis focuses on key business metrics including:
-
-- Total revenue and revenue trends
-- Product performance analysis
-- Customer purchase behavior
-- Payment method distribution
-- Customer value metrics
 ---
 
 ## Business Questions & Analysis
@@ -211,21 +195,21 @@ A decline in sales from these key markets could significantly impact overall rev
 
 ---
 
-## Key Insights
-- Revenue shows monthly fluctuation with seasonal peaks
-- Top 5 products generate a significant share of revenue
-- Repeat customers contribute strongly to total revenue
-- Payment methods are relatively evenly distributed
-- 
+## Key Analysis
+- **Revenue Trend:** Seasonal peaks highlight opportunities for targeted promotions and campaign planning.  
+- **Repeat Customers:** Strong base of loyal buyers supports stability, but growth requires attracting more new customers.  
+- **Top 5 Products:** Revenue concentration in core items suggests bundling or promotions to boost weaker products.  
+- **Revenue by Country:** Heavy reliance on UK/USA emphasizes the need for diversification into lower-performing markets.  
+  
 ---
 
 ## Conclusion
 This project demonstrates the ability to:
-- Write structured SQL queries to answer real business questions
-- Analyze data beyond surface-level metrics
-- Communicate insights with clear business implications
+- Write structured SQL queries to answer real business questions  
+- Analyze data beyond surface-level metrics  
+- Communicate insights with clear business implications  
 
-The analysis highlights opportunities in **promotion timing, product strategy, and customer retention**, which are key drivers of business performance.
+Key findings from revenue trends, repeat customers, top products, and country analysis highlight opportunities in **promotion timing, product strategy, and customer retention**. These insights showcase how data-driven analysis can directly support business growth and decision-making.  
 
 ---
 

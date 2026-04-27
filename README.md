@@ -120,7 +120,24 @@ To mitigate this seasonal slowdown, the business could introduce targeted promot
 
 ---
 
-### KPI 2: Top 5 Products by Revenue
+### KPI 2: Repeat Customers
+**Business Question:**  
+How many customers return to make repeat purchases?
+
+![Top 5 Products by Revenue](images/top_5_products.png)
+
+**Insight:**  
+A high proportion of customers are repeat buyers, indicating strong loyalty to the brand and products.
+
+**Possible Explanation:**  
+Repeat purchases suggest that the customer experience and product quality meet expectations. To further grow revenue, strategies such as promotions, membership programs, or targeted retention campaigns could encourage more first-time buyers to return.
+
+**Business Implication:**  
+The business should continue nurturing loyal customers while implementing initiatives to convert new buyers into repeat customers, thereby increasing overall revenue and ensuring long-term sustainability.
+
+---
+
+### KPI 3: Top 5 Products by Revenue
 **Business Question:**  
 Which products generate the highest revenue?
 
@@ -137,7 +154,7 @@ The business could implement bundling strategies by pairing high-performing skin
 
 ---
 
-### KPI 3: Revenue by Country
+### KPI 4: Revenue by Country
 **Business Question:**  
 Which country contributes the most revenue?
 
@@ -151,23 +168,6 @@ This may be driven by a stronger customer base or more effective marketing prese
 
 **Business Implication:**  
 A decline in sales from these key markets could significantly impact overall revenue. Therefore, the business should consider expanding its presence in other countries to diversify revenue streams and reduce dependency on a limited number of markets.
-
----
-
-### KPI 4: Revenue by Payment Method
-**Business Question:**  
-Which payment method generates the most revenue?
-
-![Revenue by Payment Method](images/payment_method.png)
-
-**Insight:**  
-Revenue is evenly distributed across all payment methods, with each channel contributing a similar share.
-
-**Possible Explanation:**  
-This indicates that no single payment method acts as a barrier in the checkout process, and the business effectively supports diverse customer payment preferences.
-
-**Business Implication:**  
-The business should maintain a variety of payment options to preserve customer convenience. Additionally, further analysis could identify whether certain payment methods are associated with higher order values or distinct customer behaviors to optimize strategy.
 ---
 
 ## Dashboard Overview

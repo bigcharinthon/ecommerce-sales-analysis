@@ -1,9 +1,24 @@
 # E-commerce Sales Analysis (SQL & Power BI)
 
 ## Project Overview
-This project analyzes e-commerce transactional data using **SQL (SQLite)** and **Power BI** to evaluate business performance and answer key business questions related to **revenue, product performance, and customer behavior**.
+This project analyzes ~20,000 rows of e-commerce transactional data using SQL (SQLite) and Power BI.  
+The objective is to demonstrate practical SQL and DAX skills while translating raw data into actionable business insights.  
+It is part of my Data Analyst portfolio, showcasing dashboard design, KPI development, and insight writing.  
 
-The objective of this project is to demonstrate practical SQL skills and the ability to translate data into **business insights**, rather than focusing only on raw metrics.
+---
+### Scope
+
+- Revenue Trend Analysis  
+- Customer Loyalty (Repeat Customer Rate)  
+- Top 5 product 
+- Revenue by Country
+  
+---
+### Deliverables
+
+- Interactive Power BI Dashboard  
+- KPI Cards with clear business questions  
+- Insight writing with possible explanations and business implications  
 
 ---
 

@@ -107,7 +107,7 @@ The analysis focuses on key business metrics including:
 Business Question:
 How does monthly revenue change over time?
 
-![Monthly Revenue](images/monthly_revenue_trend.png)
+![Monthly Revenue](images/revenue_trend.png)
 
 **Insight:**  
 Revenue consistently declines in February across multiple years, suggesting a recurring seasonal pattern rather than a one-time fluctuation.

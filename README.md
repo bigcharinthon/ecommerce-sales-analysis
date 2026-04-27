@@ -101,7 +101,6 @@ ecommerce-sales-analysis/
 
 The dataset consists of several relational tables representing customers, orders, products, and payments.
 
-```
 
 ### **Key KPIs**
 
@@ -112,7 +111,6 @@ This project analyzes 15 key performance indicators (KPIs) to evaluate business 
 - Customer Metrics: Repeat Customers, Customer Lifetime Value (CLV), Customer Revenue Rank
 - Other Metrics: Revenue by Country, Average Order Value (AOV), Payment Method Usage
 
-
 ---
 
 ## **How to Use**
@@ -121,7 +119,6 @@ This project analyzes 15 key performance indicators (KPIs) to evaluate business 
 3. Import results into Power BI for visualization  
 4. Explore dashboards to review KPIs and insights  
  
-
 ---
 
 ## Business Questions & Analysis

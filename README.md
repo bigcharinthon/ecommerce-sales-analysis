@@ -124,7 +124,7 @@ To mitigate this seasonal slowdown, the business could introduce targeted promot
 **Business Question:**  
 How many customers return to make repeat purchases?
 
-![Top 5 Products by Revenue](images/top_5_products.png)
+![Top 5 Products by Revenue](images/repeat_customers.png)
 
 **Insight:**  
 A high proportion of customers are repeat buyers, indicating strong loyalty to the brand and products.

@@ -114,6 +114,7 @@ This project analyzes 15 key performance indicators (KPIs) to evaluate business 
 ---
 
 ## **How to Use**
+
 1. Open the SQLite database in `data/ecommerce.db`  
 2. Run the SQL queries in the `sql/` folder  
 3. Import results into Power BI for visualization  
@@ -122,6 +123,7 @@ This project analyzes 15 key performance indicators (KPIs) to evaluate business 
 ---
 
 ## Business Questions & Analysis
+
 ```
 ### KPI 1: Monthly Revenue Trend
 

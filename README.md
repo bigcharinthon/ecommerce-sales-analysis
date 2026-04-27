@@ -172,7 +172,7 @@ The business should maintain a variety of payment options to preserve customer c
 
 ## Dashboard Overview
 <p align="center">
-  <img src="images/overview_dashboard.png" width="900">
+  <img src="images/Dashboradoverview.png" width="900">
 </p>
 
 The Power BI dashboard consolidates all KPIs into a single view, allowing stakeholders to quickly monitor revenue trends, product performance, and customer behavior.

@@ -4,6 +4,7 @@
 This project analyzes ~20,000 rows of e-commerce transactional data using SQL (SQLite) and Power BI.  
 The objective is to demonstrate practical SQL and DAX skills while translating raw data into actionable business insights.  
 It is part of my Data Analyst portfolio, showcasing dashboard design, KPI development, and insight writing.  
+This project is part of my Data Analyst portfolio, showcasing SQL, DAX, and Power BI skills.
 
 ---
 ### Scope
@@ -30,6 +31,13 @@ It is part of my Data Analyst portfolio, showcasing dashboard design, KPI develo
 
 ---
 
+## Dataset
+- **Source:** AI-generated synthetic e-commerce dataset (mock data created for analysis practice)  
+- **Size:** ~20,000 rows covering Jan 2023 – Dec 2024  
+- **Key Columns:** OrderID, CustomerID, Product, Revenue, PaymentMethod, Country, Date  
+- **Usage:** The dataset was used to analyze revenue trends, product performance, repeat customer behavior, and payment method distribution to answer key business questions.
+
+---
 ## Tools & Technologies
 - SQL (JOINs, aggregations, date functions, window functions)
 - SQLite
@@ -221,12 +229,11 @@ The analysis highlights opportunities in **promotion timing, product strategy, a
 
 ---
 
-## Future Improvements
-- Expand analysis using a larger dataset
-- Perform customer segmentation
-- Analyze customer lifetime value (CLV)
-- Evaluate the impact of promotions on revenue
-- Build a predictive model to forecast future revenue trends
+## Future Work
+- Add customer segmentation analysis
+- Explore correlation between payment methods and order value
+- Integrate Python for advanced statistical modeling
+- Improve dashboard storytelling layout
 
 ## Author
 

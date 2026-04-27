@@ -56,11 +56,11 @@ The Power BI dashboard consolidates all KPIs into a single view, allowing stakeh
 ---
 
 ## Key Insights
-- Revenue shows monthly fluctuation with seasonal peaks
-- Top 5 products generate a significant share of revenue
-- Repeat customers contribute strongly to total revenue
-- Payment methods are relatively evenly distributed
-- 
+- Revenue shows monthly fluctuation with seasonal peaks → indicates opportunities for seasonal marketing campaigns
+- Repeat customers contribute strongly to total revenue → suggests loyalty programs are crucial for retention 
+- Top 5 products generate a significant share of revenue → highlights dependency on limited product range  
+- Revenue distribution across countries shows concentration in UK and USA → emphasizes need for diversification into other markets  
+
 ---
 
 ## Project Structure

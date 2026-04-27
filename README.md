@@ -23,9 +23,9 @@ It is part of my Data Analyst portfolio, showcasing dashboard design, KPI develo
 ---
 
 ## Objectives
-- Analyze revenue trends over time
+- identify seasonal patterns for marketing strategy
 - Identify top and bottom performing products
-- Understand repeat customer behavior
+- support loyalty program design
 - Present insights through an interactive dashboard
 
 ---
@@ -34,6 +34,7 @@ It is part of my Data Analyst portfolio, showcasing dashboard design, KPI develo
 - SQL (JOINs, aggregations, date functions, window functions)
 - SQLite
 - Power BI (data visualization)
+- DAX (KPI measures, calculated columns)
 - Excel (basic data exploration)
 
 ---

@@ -191,7 +191,7 @@ This may be driven by a stronger customer base or more effective marketing prese
 
 **Business Implication:**  
 A decline in sales from these key markets could significantly impact overall revenue. Therefore, the business should consider expanding its presence in other countries to diversify revenue streams and reduce dependency on a limited number of markets
-
+```
 ---
 
 ## Key Analysis
